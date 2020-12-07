@@ -1,1 +1,3 @@
-Doing Bayesian Data Analysis, Second Edition A Tutorial with R, JAGS, and Stan by John Kruschke (z-lib.org)
+Doing Bayesian Data Analysis, Second Edition A Tutorial with R, JAGS, and Stan by John Kruschke (z-lib.org).pdf
+Kruschke-DBDA2E-ExerciseSolutions.pdf
+*.png
